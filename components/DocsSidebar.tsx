@@ -94,7 +94,7 @@ export function DocsSidebar() {
       >
         <Link className="docs-sidebar-title" href={documentationLandingPath}>
           <span>Ciphernode</span>
-          developer documentation
+          operator documentation
         </Link>
 
         <form className="docs-search" role="search" onSubmit={preventSearchSubmit}>
