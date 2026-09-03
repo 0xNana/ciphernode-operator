@@ -43,19 +43,7 @@ Open http://localhost:3000.
 
 ## Production
 
-Canonical URL: https://run-ciphernode.0xelegant.dev
-
-Designed for Vercel deployment as a standard Next.js App Router project. Set `NEXT_PUBLIC_SITE_URL` to override the canonical URL in preview environments.
-
-## Content assets
-
-The `content/` directory contains:
-
-- source map / technical verification checklist
-- flagship X Article draft
-- operator X Article draft
-- tutorial video script
-- 48-hour submission checklist
+Canonical URL: https://interfold.0xelegant.dev
 
 ## Editorial policy
 
