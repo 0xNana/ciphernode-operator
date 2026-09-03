@@ -7,7 +7,7 @@ export default function Home() {
     <main>
       <section className="pt-24 pb-16 px-4 md:px-8">
         <div className="max-w-[1160px] mx-auto">
-          <div className="text-primary uppercase tracking-[0.16em] text-xs font-bold mb-4">Ciphernode Field Guide</div>
+          <div className="text-primary uppercase tracking-[0.16em] text-xs font-bold mb-4">Ciphernode Operator Guide</div>
           <h1 className="text-5xl md:text-[6.5rem] font-bold tracking-tighter leading-[0.98] max-w-[940px] mb-6 text-slate-100">
             From zero to active.
           </h1>

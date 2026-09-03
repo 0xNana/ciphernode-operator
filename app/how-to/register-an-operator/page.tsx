@@ -2,7 +2,7 @@ import { DocShell } from "@/components/DocShell";
 import { NextStep } from "@/components/NextStep";
 import { OperatorLifecycle } from "@/components/OperatorLifecycle";
 
-export const metadata = { title: "Register a Ciphernode Operator | Ciphernode Field Guide" };
+export const metadata = { title: "Register a Ciphernode Operator | Ciphernode Operator Guide" };
 
 export default function Page() {
   return (

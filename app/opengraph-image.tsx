@@ -1,6 +1,6 @@
 import { ImageResponse } from "next/og";
 
-export const alt = "Ciphernode Field Guide — Privacy doesn’t run itself";
+export const alt = "Ciphernode Operator Guide — Privacy doesn’t run itself";
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 
@@ -24,7 +24,7 @@ export default function Image() {
       >
         <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center" }}>
           <div style={{ display: "flex", fontSize: 25, fontWeight: 700 }}>
-            The Interfold&nbsp;<span style={{ color: "#d9fce8" }}>/ Ciphernode Field Guide</span>
+            The Interfold&nbsp;<span style={{ color: "#d9fce8" }}>/ Ciphernode Operator Guide</span>
           </div>
           <div style={{ color: "#94a3b8", fontSize: 18, letterSpacing: "0.12em", textTransform: "uppercase" }}>
             Orient · Understand · Activate

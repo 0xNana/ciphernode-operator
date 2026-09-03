@@ -2,7 +2,7 @@ import Link from "next/link";
 import { DocShell } from "@/components/DocShell";
 import { NextStep } from "@/components/NextStep";
 
-export const metadata = { title: "Start Here | Ciphernode Field Guide" };
+export const metadata = { title: "Start Here | Ciphernode Operator Guide" };
 
 const path = [
   {

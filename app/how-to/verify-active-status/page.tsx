@@ -1,6 +1,6 @@
 import { DocShell } from "@/components/DocShell";
 
-export const metadata = { title: "Verify Ciphernode Status | Ciphernode Field Guide" };
+export const metadata = { title: "Verify Ciphernode Status | Ciphernode Operator Guide" };
 
 const checks = [
   ["Registered: false", "The operator is not in the ciphernode registry.", "Register from the authorized bond-owner configuration."],

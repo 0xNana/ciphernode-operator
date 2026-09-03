@@ -1,7 +1,7 @@
 import { DocShell } from "@/components/DocShell";
 import { OperatorLifecycle } from "@/components/OperatorLifecycle";
 
-export const metadata = { title: "Operator Lifecycle | Ciphernode Field Guide" };
+export const metadata = { title: "Operator Lifecycle | Ciphernode Operator Guide" };
 
 const states = [
   ["Unbonded", "No ciphernode bond deposited; registration is unavailable."],

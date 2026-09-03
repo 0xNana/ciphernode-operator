@@ -3,7 +3,7 @@ import { ProtocolFlow } from "@/components/ProtocolFlow";
 import { SortitionDiagram } from "@/components/SortitionDiagram";
 import { NextStep } from "@/components/NextStep";
 
-export const metadata = { title: "Why Ciphernodes Exist | Ciphernode Field Guide" };
+export const metadata = { title: "Why Ciphernodes Exist | Ciphernode Operator Guide" };
 
 export default function Page() {
   return (

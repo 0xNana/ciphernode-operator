@@ -1,6 +1,6 @@
 import { DocShell } from "@/components/DocShell";
 
-export const metadata = { title: "About This Documentation | Ciphernode Field Guide" };
+export const metadata = { title: "About This Documentation | Ciphernode Operator Guide" };
 
 export default function Page() {
   return (

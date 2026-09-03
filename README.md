@@ -1,4 +1,4 @@
-# Ciphernode Field Guide
+# Ciphernode Operator Guide
 
 A community-maintained, Diátaxis-structured learning resource for Interfold ciphernode operators.
 

@@ -1,6 +1,6 @@
 import { DocShell } from "@/components/DocShell";
 
-export const metadata = { title: "Contract Reference | Ciphernode Field Guide" };
+export const metadata = { title: "Contract Reference | Ciphernode Operator Guide" };
 
 const mainnet = [
   ["Interfold", "0x28cF63B459e6218C69EA97ea7D90541cf648c715"],

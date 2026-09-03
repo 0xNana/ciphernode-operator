@@ -14,17 +14,17 @@ const poppins = Poppins({
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
-  title: "Ciphernode Field Guide",
+  title: "Ciphernode Operator Guide",
   description: "A community-maintained guide to understanding, running, and operating Interfold ciphernodes.",
   openGraph: {
-    title: "Ciphernode Field Guide",
+    title: "Ciphernode Operator Guide",
     description: "Understand ciphernodes. Run one on Sepolia. Operate one responsibly.",
-    siteName: "Ciphernode Field Guide",
+    siteName: "Ciphernode Operator Guide",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Ciphernode Field Guide",
+    title: "Ciphernode Operator Guide",
     description: "Understand ciphernodes. Run one on Sepolia. Operate one responsibly.",
   },
 };

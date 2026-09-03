@@ -1,6 +1,6 @@
 import { DocShell } from "@/components/DocShell";
 
-export const metadata = { title: "Ciphernode CLI Reference | Ciphernode Field Guide" };
+export const metadata = { title: "Ciphernode CLI Reference | Ciphernode Operator Guide" };
 
 const groups = [
   {

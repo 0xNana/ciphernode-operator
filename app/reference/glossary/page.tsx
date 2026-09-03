@@ -1,6 +1,6 @@
 import { DocShell } from "@/components/DocShell";
 
-export const metadata = { title: "Ciphernode Glossary | Ciphernode Field Guide" };
+export const metadata = { title: "Ciphernode Glossary | Ciphernode Operator Guide" };
 
 const terms = [
   ["E3", "Encrypted Execution Environment: a request-scoped confidential computation coordinated by Interfold."],

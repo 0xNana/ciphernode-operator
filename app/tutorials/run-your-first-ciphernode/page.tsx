@@ -2,7 +2,7 @@ import { DocShell } from "@/components/DocShell";
 import { NextStep } from "@/components/NextStep";
 import { CopyableCode } from "@/components/CopyableCode";
 
-export const metadata = { title: "Run Your First Ciphernode | Ciphernode Field Guide" };
+export const metadata = { title: "Run Your First Ciphernode | Ciphernode Operator Guide" };
 
 export default function Page() {
   return (
