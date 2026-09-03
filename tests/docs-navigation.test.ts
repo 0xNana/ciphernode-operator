@@ -6,7 +6,7 @@ import {
   documentationSections,
   filterDocumentationSections,
   getSectionLabelForPath,
-} from "../lib/docs-navigation.ts";
+} from "../lib/docs-navigation";
 
 test("documentation navigation has a dedicated landing route", () => {
   assert.equal(documentationLandingPath, "/documentation");
